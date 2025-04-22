@@ -1,0 +1,32 @@
+LIBRARY KxDx
+EXPORTS
+	;; factory.c
+	CreateDXGIFactory2
+	
+	;; mfdevmgr.c
+	MFCreateDXGIDeviceManager
+
+	;; dx12stub.c
+	;; These must be exported with ordinal. A lot of programs import by ordinal
+	;; from d3d12 for some reason.
+	D3D12CreateDevice								@101
+	D3D12CreateRootSignatureDeserializer			@107
+	D3D12CreateVersionedRootSignatureDeserializer	@108
+	D3D12EnableExperimentalFeatures					@110
+	D3D12GetDebugInterface							@102
+	D3D12GetInterface
+	D3D12SerializeRootSignature						@115
+	D3D12SerializeVersionedRootSignature			@116
+
+	;; dx11.c
+	D3D11On12CreateDevice
+
+	;; dcmpstub.c
+	DCompositionCreateDevice
+	DCompositionCreateDevice2
+	DCompositionCreateDevice3
+	DComp_1040										@1040 NONAME
+
+	;; mfplat.c
+	MFMapDXGIFormatToDX9Format
+	MFMapDX9FormatToDXGIFormat

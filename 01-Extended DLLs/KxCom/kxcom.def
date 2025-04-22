@@ -1,0 +1,74 @@
+LIBRARY KxCom
+EXPORTS
+
+	CoCreateInstanceFromApp						= ole32.CoCreateInstanceEx
+
+	RoInitialize
+	RoUninitialize
+	RoGetActivationFactory
+	RoActivateInstance
+	RoGetBufferMarshaler
+
+	;;
+	;; roapi.c
+	;;
+
+	RoGetAgileReference
+	RoGetErrorReportingFlags
+	RoSetErrorReportingFlags
+
+	;;
+	;; roerror.C
+	;;
+
+	RoOriginateError
+	RoOriginateErrorW
+	RoOriginateLanguageException
+	RoTransformError
+	RoTransformErrorW
+	GetRestrictedErrorInfo
+	SetRestrictedErrorInfo
+	RoFailFastWithErrorContext
+	RoGetMatchingRestrictedErrorInfo
+	RoReportFailedDelegate
+	IsErrorPropagationEnabled
+
+	;;
+	;; mta.c
+	;;
+
+	CoIncrementMTAUsage
+	CoDecrementMTAUsage
+
+	;;
+	;; winrt.c
+	;;
+
+	WindowsCompareStringOrdinal
+	WindowsCreateString
+	WindowsCreateStringReference
+	WindowsDeleteString
+	WindowsDuplicateString
+	WindowsGetStringLen
+	WindowsGetStringRawBuffer
+	WindowsIsStringEmpty
+	WindowsStringHasEmbeddedNull
+	WindowsSubstring
+	WindowsSubstringWithSpecifiedLength
+	WindowsConcatString
+	WindowsPreallocateStringBuffer
+	WindowsDeleteStringBuffer
+	WindowsPromoteStringBuffer
+	CreateDispatcherQueueController
+
+	;;
+	;; firefox_fix.c
+	;;
+
+	CoCreateInstance = Ext_CoCreateInstance
+
+	;;
+	;; coremessaging.c
+	;;
+
+	CoreUICreate
