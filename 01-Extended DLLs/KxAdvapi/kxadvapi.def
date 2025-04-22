@@ -1,0 +1,17 @@
+LIBRARY KxAdvapi
+EXPORTS
+	;; Forwarders to KexDll
+	EventSetInformation			= KexDll.KexEtwEventSetInformation
+
+	;; Forwarders to KxBase
+	CreateWellKnownSid			= KxBase.CreateWellKnownSid
+
+	;; timezoneapi.c
+	GetDynamicTimeZoneInformationEffectiveYears
+	EnumDynamicTimeZoneInformation
+
+	;; regvaluefix.c
+	RegGetValueW = Ext_RegGetValueW
+	RegGetValueA = Ext_RegGetValueA
+
+	RegOpenKeyEx = RegOpenKeyExW

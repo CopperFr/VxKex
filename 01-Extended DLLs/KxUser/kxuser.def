@@ -1,0 +1,110 @@
+LIBRARY KxUser
+EXPORTS
+	;;
+	;; autorot.c
+	;;
+
+	SetDisplayAutoRotationPreferences
+	GetDisplayAutoRotationPreferences
+	GetAutoRotationState
+
+	;;
+	;; blutooth.c
+	;;
+
+	BluetoothGATTAbortReliableWrite
+	BluetoothGATTBeginReliableWrite
+	BluetoothGATTEndReliableWrite
+	BluetoothGATTGetCharacteristics
+	BluetoothGATTGetCharacteristicValue
+	BluetoothGATTGetDescriptors
+	BluetoothGATTGetDescriptorValue
+	BluetoothGATTGetIncludedServices
+	BluetoothGATTGetServices
+	BluetoothGATTRegisterEvent
+	BluetoothGATTSetCharacteristicValue
+	BluetoothGATTSetDescriptorValue
+	BluetoothGATTUnregisterEvent
+
+	;;
+	;; misc.c
+	;;
+
+	CreateWindowInBand
+	GetWindowBand
+	GetProcessUIContextInformation	@2521 NONAME
+	GetCurrentInputMessageSource
+	IsImmersiveProcess
+	IsWindowArranged
+	SubscribeFeatureStateChangeNotification
+	UnsubscribeFeatureStateChangeNotification
+	RecordFeatureUsage
+	RecordFeatureError
+	GetFeatureEnabledState
+	GetFeatureVariant
+	User32_2557						@2557 NONAME
+
+	;;
+	;; pointer.c
+	;;
+
+	GetPointerDevices
+	GetPointerType
+	GetPointerInfo
+	GetPointerTouchInfo
+	GetPointerFrameTouchInfo
+	GetPointerFrameTouchInfoHistory
+	GetPointerPenInfo
+	GetPointerPenInfoHistory
+	SkipPointerFrameMessages
+	GetPointerDeviceRects
+	EnableMouseInPointer
+	IsMouseInPointerEnabled
+	RegisterPointerDeviceNotifications
+
+	;;
+	;; pwrnotfy.c
+	;;
+
+	RegisterSuspendResumeNotification
+	UnregisterSuspendResumeNotification
+
+	;;
+	;; scaling.c
+	;;
+
+	GetDpiForSystem
+	GetDpiForWindow
+	GetDpiForMonitor
+	GetScaleFactorForDevice
+	GetScaleFactorForMonitor
+	GetProcessDpiAwareness
+	GetProcessDpiAwarenessInternal
+	SetProcessDpiAwareness
+	GetThreadDpiAwarenessContext
+	SetThreadDpiAwarenessContext
+	SetProcessDpiAwarenessContext
+	SetProcessDpiAwarenessInternal
+	AdjustWindowRectExForDpi
+	GetDpiForShellUIComponent
+	GetAwarenessFromDpiAwarenessContext
+	GetWindowDpiAwarenessContext
+	EnableNonClientDpiScaling
+	AreDpiAwarenessContextsEqual
+	IsValidDpiAwarenessContext
+	LogicalToPhysicalPointForPerMonitorDPI
+	PhysicalToLogicalPointForPerMonitorDPI
+	EnableChildWindowDpiMessage
+
+	;;
+	;; sysmetrc.c
+	;;
+
+	GetSystemMetricsForDpi
+	SystemParametersInfoForDpi
+
+	;;
+	;; timer.c
+	;;
+
+	SetCoalescableTimer
