@@ -34,7 +34,7 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 130.1
 - GitHub CLI 2.70.0
 - GIMP 3.0.2-1
-- Opera 118.0.5461.41 (but there is a sound issue)
+- Opera 118.0.5461.41
 - PowerShell 7.5.1
 - Python 3.13.3
 - Spotify 1.2.61.443
@@ -42,8 +42,7 @@ success. I hope to address this shortcoming in a future release.
 - VSCode 1.99.2
 - WinDbg Classic 10.0.2600.1
 
-See the **Application Compatibility List.docx** file, which is installed together
-with VxKex, for more information.
+See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information.
 
 The majority of Qt6 applications will work, and many Electron applications will
 work as well.
