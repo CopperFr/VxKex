@@ -11,9 +11,9 @@ open the Properties dialog, and select the VxKex tab. Then, check the check box
 which says "Enable VxKex for this program", and try to run the program. You can also
 apply it on a shortcut (it will automatically update configuration on the target)
 
-Some programs require additional configuration. There's a file called **"Application
-Compatibility List.docx"** inside the VxKex installation folder (which is C:\Program
-Files\VxKex by default) which details these steps, but for the most part, all
+Some programs require additional configuration. There's a link file called **"Application
+Compatibility List"** inside the VxKex installation folder (which is C:\Program
+Files\VxKex by default) which will open the [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List) wiki page details these steps, but for the most part, all
 configuration is self-explanatory.
 
 FAQ
