@@ -90,7 +90,7 @@ in newer versions of Windows.
 
 **Q: I've an error message "xxx.exe is not a valid Win32 application"**
 
-**A:** The BHO CpiwBypa and option to activate have been removed but VxKex can be
+**A:** The BHO CpiwBypa and option to activate have been removed (was not working very well) but VxKex (as minimal VxKex) can be
 activated on explorer.exe instead:
 
 ![VxKex configuration GUI](/explorer-properties-screenshot.png)
