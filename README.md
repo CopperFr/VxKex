@@ -27,7 +27,7 @@ success. I hope to address this shortcoming in a future release.
 **Q: What applications are supported?**
 
 **A:** The list of compatible applications includes, but is not limited to:
-- Android Studio Meerkat 2024.3.1
+- Android Studio Meerkat 2024.3.2
 - Blender 4.4.3
 - Chromium 135.0.7049.96
 - Firefox 128.9.0esr
