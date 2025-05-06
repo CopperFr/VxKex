@@ -26,7 +26,7 @@ success. I hope to address this shortcoming in a future release.
 
 **Q: What applications are supported?**
 
-**A:** The list of compatible applications includes, but is not limited to:
+**A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2
 - Blender 4.4.3
 - Chromium 135.0.7049.96
@@ -42,7 +42,7 @@ success. I hope to address this shortcoming in a future release.
 - VSCode 1.99.3
 - WinDbg Classic 10.0.2600.1
 
-See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information.
+See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
 
 The majority of Qt6 applications will work, and many Electron applications will
 work as well.
