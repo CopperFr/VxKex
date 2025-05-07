@@ -97,4 +97,4 @@ activated on explorer.exe instead:
 
 After each explore.exe settings changes a message will prompt you to restart:
 
-![VxKex configuration GUI](/restart-explorer-screenshot.png)
+![VxKex configuration restart](/restart-explorer-screenshot.png)
