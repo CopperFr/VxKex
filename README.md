@@ -39,7 +39,7 @@ success. I hope to address this shortcoming in a future release.
 - Python 3.13.3
 - Spotify 1.2.61.443
 - Vivaldi 7.3.3635.11
-- VSCode 1.99.3
+- VSCode 1.100.2
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
