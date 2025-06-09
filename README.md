@@ -36,7 +36,7 @@ success. I hope to address this shortcoming in a future release.
 - GIMP 3.0.2-1
 - Opera 118.0.5461.41
 - PowerShell 7.5.1
-- Python 3.13.3
+- Python 3.13.4
 - Spotify 1.2.61.443
 - Vivaldi 7.3.3635.11
 - VSCode 1.100.3
