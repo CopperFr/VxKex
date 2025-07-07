@@ -95,6 +95,8 @@ activated on explorer.exe instead:
 
 ![VxKex configuration GUI](/explorer-properties-screenshot.png)
 
+You need to check **Disable VxKex for child process** on explorer.exe to avoid that all applications run with VxKex enabled.
+
 After each explore.exe settings changes a message will prompt you to restart:
 
 ![VxKex configuration restart](/restart-explorer-screenshot.png)
