@@ -34,11 +34,11 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 130.1
 - GitHub CLI 2.70.0
 - GIMP 3.0.2-1
-- Opera 118.0.5461.41
+- Opera 120.0.5543.38
 - PowerShell 7.5.1
 - Python 3.13.5
 - Spotify 1.2.61.443
-- Vivaldi 7.3.3635.11
+- Vivaldi 7.5.3735.44
 - VSCode 1.101.1
 - WinDbg Classic 10.0.2600.1
 
