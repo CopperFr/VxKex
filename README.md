@@ -28,7 +28,7 @@ success. I hope to address this shortcoming in a future release.
 
 **A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2 Patch 1
-- Blender 4.5.1
+- Blender 4.5.2
 - Chrome 138.0.7204.97
 - Firefox 128.9.0esr
 - Firefox 130.1
