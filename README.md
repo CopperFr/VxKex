@@ -34,6 +34,7 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 130.1
 - GitHub CLI 2.78.0
 - GIMP 3.0.2-1
+- GoLang 1.25
 - Inkscape 1.4.2
 - Opera 120.0.5543.38
 - PowerShell 7.5.2
