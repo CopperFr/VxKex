@@ -32,7 +32,7 @@ success. I hope to address this shortcoming in a future release.
 - Chrome 138.0.7204.97
 - Firefox 128.9.0esr
 - Firefox 130.1
-- GitHub CLI 2.70.0
+- GitHub CLI 2.78.0
 - GIMP 3.0.2-1
 - Inkscape 1.4.2
 - Opera 120.0.5543.38
