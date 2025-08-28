@@ -40,7 +40,7 @@ success. I hope to address this shortcoming in a future release.
 - PowerShell 7.5.2
 - Python 3.13.7
 - Spotify 1.2.61.443
-- Vivaldi 7.5.3735.44
+- Vivaldi 7.5.3735.66
 - VSCode 1.103.2
 - WinDbg Classic 10.0.2600.1
 
