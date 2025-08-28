@@ -36,7 +36,7 @@ success. I hope to address this shortcoming in a future release.
 - GIMP 3.0.2-1
 - GoLang 1.25
 - Inkscape 1.4.2
-- Opera 120.0.5543.38
+- Opera 121.0.5600.38
 - PowerShell 7.5.2
 - Python 3.13.7
 - Spotify 1.2.61.443
