@@ -34,6 +34,7 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 130.1
 - GitHub CLI 2.78.0
 - GIMP 3.0.2-1
+- Godot 4.5.stable
 - GoLang 1.25
 - Inkscape 1.4.2
 - Opera 121.0.5600.38
