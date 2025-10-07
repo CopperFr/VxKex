@@ -39,7 +39,7 @@ success. I hope to address this shortcoming in a future release.
 - Inkscape 1.4.2
 - Opera 121.0.5600.38
 - PowerShell 7.5.3
-- Python 3.13.7
+- Python 3.14.0
 - Rust 1.90.0
 - Spotify 1.2.61.443
 - Vivaldi 7.5.3735.66
