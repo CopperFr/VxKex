@@ -33,12 +33,13 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 128.9.0esr
 - Firefox 130.1
 - GitHub CLI 2.78.0
+- GitHub Desktop 3.5.3
 - GIMP 3.0.2-1
 - Godot 4.5.stable
 - GoLang 1.25
 - Inkscape 1.4.2
 - Opera 121.0.5600.38
-- PowerShell 7.5.3
+- PowerShell 7.5.4
 - Python 3.14.0
 - Rust 1.90.0
 - Spotify 1.2.61.443
