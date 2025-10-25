@@ -35,15 +35,15 @@ success. I hope to address this shortcoming in a future release.
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
 - GIMP 3.0.2-1
-- Godot 4.5.stable
+- Godot 4.5.1.stable
 - GoLang 1.25
 - Inkscape 1.4.2
-- Opera 121.0.5600.38
+- Opera 122.0.5643.142
 - PowerShell 7.5.4
 - Python 3.14.0
 - Rust 1.90.0
 - Spotify 1.2.61.443
-- Vivaldi 7.5.3735.66
+- Vivaldi 7.6.3797.63
 - VSCode 1.105.1
 - VSCodium 1.105.17075
 - WinDbg Classic 10.0.2600.1
