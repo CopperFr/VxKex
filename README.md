@@ -38,7 +38,7 @@ success. I hope to address this shortcoming in a future release.
 - Godot 4.5.1.stable
 - GoLang 1.25
 - Inkscape 1.4.2
-- Opera 122.0.5643.142
+- Opera 123.0.5669.47
 - PowerShell 7.5.4
 - Python 3.14.0
 - Rust 1.90.0
