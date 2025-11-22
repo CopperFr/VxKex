@@ -46,7 +46,7 @@ success. I hope to address this shortcoming in a future release.
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
 - VSCode 1.106.1
-- VSCodium 1.105.17075
+- VSCodium 1.106.27818
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
