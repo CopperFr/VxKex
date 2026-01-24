@@ -45,8 +45,8 @@ success. I hope to address this shortcoming in a future release.
 - Rust 1.90.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.108.1
-- VSCodium 1.107.18627
+- VSCode 1.108.2
+- VSCodium 1.108.10359
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
