@@ -36,7 +36,7 @@ success. I hope to address this shortcoming in a future release.
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
 - GIMP 3.0.2-1
-- Godot 4.5.1.stable
+- Godot 4.6.stable
 - GoLang 1.25
 - Inkscape 1.4.2
 - Opera 123.0.5669.47
@@ -45,7 +45,7 @@ success. I hope to address this shortcoming in a future release.
 - Rust 1.90.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.108.2
+- VSCode 1.109.3
 - VSCodium 1.108.10359
 - WinDbg Classic 10.0.2600.1
 
