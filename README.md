@@ -35,7 +35,7 @@ success. I hope to address this shortcoming in a future release.
 - Firefox 130.1
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
-- GIMP 3.0.2-1
+- GIMP 3.0.8-2
 - Godot 4.6.stable
 - GoLang 1.25
 - Inkscape 1.4.2
@@ -46,7 +46,7 @@ success. I hope to address this shortcoming in a future release.
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
 - VSCode 1.109.3
-- VSCodium 1.108.10359
+- VSCodium 1.109.31074
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
