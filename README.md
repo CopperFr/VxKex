@@ -36,16 +36,16 @@ success. I hope to address this shortcoming in a future release.
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
 - GIMP 3.0.8-2
-- Godot 4.6.stable
+- Godot 4.6.1.stable
 - GoLang 1.25
-- Inkscape 1.4.2
+- Inkscape 1.4.3
 - Opera 123.0.5669.47
 - PowerShell 7.5.4
 - Python 3.14.2
 - Rust 1.90.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.109.3
+- VSCode 1.109.5
 - VSCodium 1.109.31074
 - WinDbg Classic 10.0.2600.1
 
