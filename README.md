@@ -41,12 +41,12 @@ success. I hope to address this shortcoming in a future release.
 - Inkscape 1.4.3
 - Opera 123.0.5669.47
 - PowerShell 7.5.4
-- Python 3.14.2
+- Python 3.14.3
 - Rust 1.90.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.109.5
-- VSCodium 1.109.31074
+- VSCode 1.110.0
+- VSCodium 1.109.51242
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
