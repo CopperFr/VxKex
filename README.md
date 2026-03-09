@@ -28,7 +28,7 @@ success. I hope to address this shortcoming in a future release.
 
 **A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2 Patch 1
-- Antigravity 1.11.17
+- Antigravity 1.20.4
 - Blender 4.5.6 / 5.0.1
 - Chrome 138.0.7204.97
 - Firefox 128.9.0esr
@@ -45,8 +45,8 @@ success. I hope to address this shortcoming in a future release.
 - Rust 1.94.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.110.0
-- VSCodium 1.109.51242
+- VSCode 1.111.0
+- VSCodium 1.110.1163
 - WinDbg Classic 10.0.2600.1
 
 See [Application Compatibility List](https://github.com/CopperFr/VxKex/wiki/Application-Compatibility-List), for more information on configuration needed for each tested application.
