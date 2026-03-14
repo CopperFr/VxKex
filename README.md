@@ -40,7 +40,7 @@ success. I hope to address this shortcoming in a future release.
 - GoLang 1.25
 - Inkscape 1.4.3
 - Opera 123.0.5669.47
-- PowerShell 7.5.4
+- PowerShell 7.5.5
 - Python 3.14.3
 - Rust 1.94.0
 - Spotify 1.2.61.443
