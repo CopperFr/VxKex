@@ -45,7 +45,7 @@ success. I hope to address this shortcoming in a future release.
 - Rust 1.94.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.111.0
+- VSCode 1.112.0
 - VSCodium 1.110.1163
 - WinDbg Classic 10.0.2600.1
 
