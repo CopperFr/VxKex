@@ -29,18 +29,18 @@ success. I hope to address this shortcoming in a future release.
 **A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2 Patch 1
 - Antigravity 1.20.4
-- Blender 4.5.6 / 5.1.0
+- Blender 4.5.9 / 5.1.1
 - Chrome 141.0.7390.123
 - Firefox 128.9.0esr
 - Firefox 130.1
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
-- GIMP 3.2.0
+- GIMP 3.2.4
 - Godot 4.6.2.stable
 - GoLang 1.25
 - Inkscape 1.4.3
 - Opera 123.0.5669.47
-- PowerShell 7.6.0
+- PowerShell 7.6.1
 - Python 3.14.4
 - Rust 1.94.0
 - Spotify 1.2.61.443
