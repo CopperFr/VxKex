@@ -37,7 +37,7 @@ success. I hope to address this shortcoming in a future release.
 - GitHub Desktop 3.5.3
 - GIMP 3.2.4
 - Godot 4.6.2.stable
-- GoLang 1.25
+- GoLang 1.26.2
 - Inkscape 1.4.3
 - Opera 123.0.5669.47
 - PowerShell 7.6.1
