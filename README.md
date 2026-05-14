@@ -38,10 +38,10 @@ success. I hope to address this shortcoming in a future release.
 - GIMP 3.2.4
 - Godot 4.6.2.stable
 - GoLang 1.26.2
-- Inkscape 1.4.3
+- Inkscape 1.4.4
 - Opera 123.0.5669.47
 - PowerShell 7.6.1
-- Python 3.14.4
+- Python 3.14.5
 - Rust 1.94.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
