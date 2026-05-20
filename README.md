@@ -29,7 +29,7 @@ success. I hope to address this shortcoming in a future release.
 **A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2 Patch 1
 - Antigravity 1.20.4
-- Blender 4.5.9 / 5.1.1
+- Blender 4.5.10 / 5.1.2
 - Chrome 141.0.7390.123
 - Firefox 128.9.0esr
 - Firefox 130.1
