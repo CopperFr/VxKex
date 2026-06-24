@@ -29,14 +29,14 @@ success. I hope to address this shortcoming in a future release.
 **A:** The list of tested compatible applications includes, but is not limited to:
 - Android Studio Meerkat 2024.3.2 Patch 1
 - Antigravity 1.20.4
-- Blender 4.5.10 / 5.1.2
+- Blender 4.5.11 / 5.1.2
 - Chrome 141.0.7390.123
 - Firefox 128.9.0esr
 - Firefox 130.1
 - GitHub CLI 2.78.0
 - GitHub Desktop 3.5.3
 - GIMP 3.2.4
-- Godot 4.6.2.stable
+- Godot 4.6.3.stable
 - GoLang 1.26.2
 - Inkscape 1.4.4
 - Opera 123.0.5669.47
@@ -45,7 +45,7 @@ success. I hope to address this shortcoming in a future release.
 - Rust 1.94.0
 - Spotify 1.2.61.443
 - Vivaldi 7.6.3797.63
-- VSCode 1.108.2 / 1.125*
+- VSCode 1.108.2 / 1.126*
 - VSCodium 1.108.20787 / 1.121.03429*
 - WinDbg Classic 10.0.2600.1
 
